@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:QuizEngine(ED).xcodeproj">
+      location = "self:/Users/mymacbook/Documents/Projects/!Actual/QuizEngine/QuizEngine.xcodeproj">
    </FileRef>
 </Workspace>
